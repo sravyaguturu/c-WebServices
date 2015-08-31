@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAADMmJXx9VFEK9VLaexWRwLAAAAAACAAAAAAAQZgAAAAEAACAAAACctuoH88cAVBiGWqYaKXSxtdw+nTrXVlOcrGJ0NKTwVQAAAAAOgAAAAAIAACAAAADuzQZAlgLQa1CgHQ/HnGSSs4icN/wgUBVc5f/ntzasdRAAAACQKmVYo2Vdf6T0aSyVbjxTQAAAAOq/6/yAHOuNZlMdjvXf5/D7mnfbTjWchl0gV43jFDeqp1IhnVjoQP1rmCimDPcE0iLtENwDKyxAECbZqrLwbOs=</EncryptedPassword>
+    <_PublishTargetUrl>ftp://10.1.12.51:73</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/CrimeService.dll">
+      <publishTime>04/08/2015 17:28:17</publishTime>
+    </File>
+    <File Include="bin/CrimeService.pdb">
+      <publishTime>04/08/2015 17:28:16</publishTime>
+    </File>
+    <File Include="Crime.svc">
+      <publishTime>03/29/2015 01:08:32</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>04/08/2015 17:28:18</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/08/2015 17:28:17</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAADMmJXx9VFEK9VLaexWRwLAAAAAACAAAAAAAQZgAAAAEAACAAAACM/Iei/T2dhmE9DHgFFPcwxqY1r7PH/6qfmCGWygigxAAAAAAOgAAAAAIAACAAAAAzWyETAyo45uUFTpBbrx4+hcw4PqeiEP99zztDGVdwuhAAAAAMDsZaARbrgsR+HUYu3e6fQAAAAHJHgMBjWa8NP/EFg5SD5X2WRanzPYkhbABWM7/tRmJcF5bcssD/Jk9uReWWazbhB88ULRsJmvjEfk48E7Nk/+E=</EncryptedPassword>
+    <_PublishTargetUrl>ftp://10.1.12.51:96</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Top10Words.dll">
+      <publishTime>04/08/2015 17:01:18</publishTime>
+    </File>
+    <File Include="bin/Top10Words.pdb">
+      <publishTime>04/08/2015 17:01:18</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>04/08/2015 17:01:19</publishTime>
+    </File>
+    <File Include="Top10Service.svc">
+      <publishTime>03/30/2015 21:27:11</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/08/2015 16:57:15</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

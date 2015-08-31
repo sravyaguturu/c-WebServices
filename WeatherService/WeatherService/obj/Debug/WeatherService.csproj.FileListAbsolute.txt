@@ -1,0 +1,12 @@
+E:\Spring-2015\DSOD\Assignment-3\Part2\WeatherService\WeatherService\obj\Debug\WeatherService.csprojResolveAssemblyReference.cache
+E:\Spring-2015\DSOD\Assignment-3\Part2\WeatherService\WeatherService\bin\WeatherService.dll.config
+E:\Spring-2015\DSOD\Assignment-3\Part2\WeatherService\WeatherService\bin\WeatherService.dll
+E:\Spring-2015\DSOD\Assignment-3\Part2\WeatherService\WeatherService\bin\WeatherService.pdb
+E:\Spring-2015\DSOD\Assignment-3\Part2\WeatherService\WeatherService\obj\Debug\WeatherService.dll
+E:\Spring-2015\DSOD\Assignment-3\Part2\WeatherService\WeatherService\obj\Debug\WeatherService.pdb
+E:\Spring-2015\DSOD\Assignment-5\WeatherService\WeatherService\bin\WeatherService.dll.config
+E:\Spring-2015\DSOD\Assignment-5\WeatherService\WeatherService\bin\WeatherService.dll
+E:\Spring-2015\DSOD\Assignment-5\WeatherService\WeatherService\bin\WeatherService.pdb
+E:\Spring-2015\DSOD\Assignment-5\WeatherService\WeatherService\obj\Debug\WeatherService.csprojResolveAssemblyReference.cache
+E:\Spring-2015\DSOD\Assignment-5\WeatherService\WeatherService\obj\Debug\WeatherService.dll
+E:\Spring-2015\DSOD\Assignment-5\WeatherService\WeatherService\obj\Debug\WeatherService.pdb

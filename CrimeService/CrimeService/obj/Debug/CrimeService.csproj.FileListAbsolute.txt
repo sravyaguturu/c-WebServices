@@ -1,0 +1,6 @@
+E:\Spring-2015\DSOD\Assignment-3\Part2\CrimeService\CrimeService\bin\CrimeService.dll.config
+E:\Spring-2015\DSOD\Assignment-3\Part2\CrimeService\CrimeService\bin\CrimeService.dll
+E:\Spring-2015\DSOD\Assignment-3\Part2\CrimeService\CrimeService\bin\CrimeService.pdb
+E:\Spring-2015\DSOD\Assignment-3\Part2\CrimeService\CrimeService\obj\Debug\CrimeService.csprojResolveAssemblyReference.cache
+E:\Spring-2015\DSOD\Assignment-3\Part2\CrimeService\CrimeService\obj\Debug\CrimeService.dll
+E:\Spring-2015\DSOD\Assignment-3\Part2\CrimeService\CrimeService\obj\Debug\CrimeService.pdb

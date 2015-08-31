@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAADMmJXx9VFEK9VLaexWRwLAAAAAACAAAAAAAQZgAAAAEAACAAAACkhnFaFDSROOcKvvVdCRCnNaSVPGxwbllDmqyDiiX9xQAAAAAOgAAAAAIAACAAAABpMhmjItfBo9kB6TSCtusZn1lXKDyF0v0PNrHILD+MUxAAAADbrpL54dWz5iVjo5xvt75mQAAAAPCFX5TdsCLuPPihN4Leo8sz6vV1ACKw2Qa480GJwzd1uIZHK+LfCjVaRnUJ4sBIOD/ua86KJaHxQoysGKsZoEI=</EncryptedPassword>
+    <_PublishTargetUrl>ftp://10.1.12.51:75</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/WeatherService.dll">
+      <publishTime>04/08/2015 17:34:08</publishTime>
+    </File>
+    <File Include="bin/WeatherService.pdb">
+      <publishTime>04/08/2015 17:34:08</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>04/08/2015 17:34:09</publishTime>
+    </File>
+    <File Include="Weather.svc">
+      <publishTime>03/29/2015 12:44:00</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/08/2015 17:34:08</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
